@@ -8,4 +8,4 @@
 	5: Change permission to run a file
 	6: Change file permissions of groups, owners and others using octal format
 	7: Give everyone execute permission
-	8: Set all permissions using octal format
+	8-9: Set all permissions using octal format
