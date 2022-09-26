@@ -10,4 +10,5 @@
 	7: Give everyone execute permission
 	8-9: Set all permissions using octal format
 	10: Set permissions equal to a reference file's
-	11: Set permissions of directories recursively.
+	11: Set permissions of directories recursively
+	12: Create a new directory with specified permissions
