@@ -5,4 +5,5 @@
 	2: Print all groups the current user is part of
 	3: Change file owner
 	4: Create a new empty file
-	5: Change permission to run a file 
+	5: Change permission to run a file
+	6: Change file permissions of groups, owners and others
