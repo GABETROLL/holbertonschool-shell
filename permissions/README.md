@@ -14,3 +14,5 @@
 	12: Create a new directory with specified permissions
 	13: Change group owner of a file
 	14: Change owner and group owner recursively
+	15: Change owner and group owner of symbolic link
+
