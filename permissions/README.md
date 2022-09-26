@@ -2,4 +2,4 @@
 
 	0: Change users
 	1: Print current user
-	2: Print groups 
+	2: Print all groups the current user is part of 
