@@ -6,4 +6,5 @@
 	4: Display last 10 lines of '/etc/hosts'
 	5: Display first 10 lines of '/etc/passwd'
 	6: Display line #2 of 'iacta' using a pipeline
-
+	
+	8: Save the contents of the cwd to 'ls_cwd_content' using std output as input to the file
