@@ -5,5 +5,5 @@
 	3: Display contents of '/etc/passwd' and '/etc/hosts'
 	4: Display last 10 lines of '/etc/hosts'
 	5: Display first 10 lines of '/etc/passwd'
-
+	6: Display line #2 of 'iacta' using a pipeline
 
