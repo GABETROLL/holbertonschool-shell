@@ -8,3 +8,4 @@
 	6: Display line #2 of 'iacta' using a pipeline
 	
 	8: Save the contents of the cwd to 'ls_cwd_content' using std output as input to the file
+	9: Duplicate last line of a file
