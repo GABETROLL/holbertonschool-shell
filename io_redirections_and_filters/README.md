@@ -9,3 +9,4 @@
 	
 	8: Save the contents of the cwd to 'ls_cwd_content' using std output as input to the file
 	9: Duplicate last line of a file
+	10: Delete all .js files recursively.
