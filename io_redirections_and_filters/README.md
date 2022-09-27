@@ -2,5 +2,6 @@
 	0: Write "Hello, World" to the standard output (shell)
 	1: Write special character '
 	2: Display contents of '/etc/passwd' file
-	3: Display contents of 'etc/passwd' and 'etc/hosts'
+	3: Display contents of '/etc/passwd' and '/etc/hosts'
+	4: Display last 10 lines of '/etc/hosts'
 
