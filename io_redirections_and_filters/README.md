@@ -17,3 +17,5 @@
 	15: Print amount of lines in '/etc/passwd' that contain 'bin'
 	16: Print all lines in '/etc/passwd' that contain "root" with the 3 following lines
 	17: Print all lines in '/etc/passwd' that don't contain "bin"
+
+	19: Echo input with "A" and "c" as "Z" and "e"
