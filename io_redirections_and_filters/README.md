@@ -12,4 +12,5 @@
 	10: Delete all .js files recursively.
 	11: Print amount of directories and subdirectories in current directory
 
-	13: Print all unique words in a list file, sorted
+	13: Print all unique words in a list input, sorted
+	14: Print all lines in '/etc/passwd' that contain '/root' pattern.
