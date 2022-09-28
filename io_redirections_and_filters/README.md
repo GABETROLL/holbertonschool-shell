@@ -19,3 +19,4 @@
 	17: Print all lines in '/etc/passwd' that don't contain "bin"
 
 	19: Echo input with "A" and "c" as "Z" and "e"
+	20: Echo input with deleted C's and c's
