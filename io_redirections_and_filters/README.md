@@ -16,3 +16,4 @@
 	14: Print all lines in '/etc/passwd' that contain '/root' pattern
 	15: Print amount of lines in '/etc/passwd' that contain 'bin'
 	16: Print all lines in '/etc/passwd' that contain "root" with the 3 following lines
+	17: Print all lines in '/etc/passwd' that don't contain "bin"
