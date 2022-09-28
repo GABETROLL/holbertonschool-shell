@@ -15,3 +15,4 @@
 	13: Print all unique words in a list input, sorted
 	14: Print all lines in '/etc/passwd' that contain '/root' pattern
 	15: Print amount of lines in '/etc/passwd' that contain 'bin'
+	16: Print all lines in '/etc/passwd' that contain "root" with the 3 following lines
