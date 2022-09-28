@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -adR | wc -l
+find . -maxdepth 2 -type d | wc -l
