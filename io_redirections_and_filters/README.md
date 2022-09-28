@@ -12,13 +12,12 @@
 	10: Delete all .js files recursively.
 	11: Print amount of directories and subdirectories in current directory
 	12: Print 10 newest-edited files in cwd
-
 	13: Print all unique words in a list input, sorted
 	14: Print all lines in '/etc/passwd' that contain '/root' pattern
 	15: Print amount of lines in '/etc/passwd' that contain 'bin'
 	16: Print all lines in '/etc/passwd' that contain "root" with the 3 following lines
 	17: Print all lines in '/etc/passwd' that don't contain "bin"
-
+	18: Print all lines in a file that start with a letter
 	19: Echo input with "A" and "c" as "Z" and "e"
 	20: Echo input with deleted C's and c's
 	21: Echo input in reverse
