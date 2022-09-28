@@ -11,3 +11,5 @@
 	9: Duplicate last line of a file
 	10: Delete all .js files recursively.
 	11: Print amount of directories and subdirectories in current directory
+
+	13: Print all unique words in a list file, sorted
