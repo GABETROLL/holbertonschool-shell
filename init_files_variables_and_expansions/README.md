@@ -6,4 +6,5 @@
 	1: Use the '$USER' variable to say hello to the current user
 	2: Add '/action' to $PATH, with a colon between '/action' and the rest of $PATH
 
-	4: Print all global variables
+	4: List all global variables
+	5: List all local variables of script 5 using 'set' command without any options
