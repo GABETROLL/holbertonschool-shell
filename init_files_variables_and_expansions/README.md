@@ -10,7 +10,9 @@
 	5: List all local variables of script 5 using 'set' command without any options
 	6: Create a new local variable
 	7: Create a new global variable using 'export'
-	8: Echo 'TRUEKNOWLEDGE' plus 128
-	9: Echo 'POWER' divided by 'DIVIDE'
-	10: Echo 'BREATH' to the power of 'LOVE'
-	11: Echo 'BINARY' number in base 10
+	8: Echo global variable 'TRUEKNOWLEDGE' plus 128
+	9: Echo global variable 'POWER' divided by 'DIVIDE'
+	10: Echo global variable 'BREATH' to the power of 'LOVE'
+	11: Echo global variable 'BINARY' number in base 10
+	
+	12: Printf global float 'NUM' to two decimals of presicion
