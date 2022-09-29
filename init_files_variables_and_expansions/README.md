@@ -14,6 +14,6 @@
 	9: Echo global variable 'POWER' divided by 'DIVIDE'
 	10: Echo global variable 'BREATH' to the power of 'LOVE'
 	11: Echo global variable 'BINARY' number in base 10
-	
+	12: Echo all combinations of non-capital letters without 'oo'
 	13: Printf global float 'NUM' to two decimals of presicion
 	14: Echo global variable 'DECIMAL' in hexadecimal
