@@ -4,3 +4,6 @@
 ##Scripts:
 	0: Create an alias 'ls' that executes 'rm *' (evil)
 	1: Use the '$USER' variable to say hello to the current user
+	2: Add '/action' to $PATH, with a colon between '/action' and the rest of $PATH
+
+	4: Print all global variables
