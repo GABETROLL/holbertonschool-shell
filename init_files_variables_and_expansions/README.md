@@ -10,3 +10,4 @@
 	5: List all local variables of script 5 using 'set' command without any options
 	6: Create a new local variable
 	7: Create a new global variable using 'export'
+	8: Add 128 to a global variable called 'TRUEKNOWLEDGE'
