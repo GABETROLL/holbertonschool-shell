@@ -12,3 +12,4 @@
 	7: Create a new global variable using 'export'
 	8: Echo 'TRUEKNOWLEDGE' plus 128
 	9: Echo 'POWER' divided by 'DIVIDE'
+	10: Echo 'BREATH' to the power of 'LOVE'
