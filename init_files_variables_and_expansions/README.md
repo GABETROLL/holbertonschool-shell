@@ -13,3 +13,4 @@
 	8: Echo 'TRUEKNOWLEDGE' plus 128
 	9: Echo 'POWER' divided by 'DIVIDE'
 	10: Echo 'BREATH' to the power of 'LOVE'
+	11: Echo 'BINARY' number in base 10
