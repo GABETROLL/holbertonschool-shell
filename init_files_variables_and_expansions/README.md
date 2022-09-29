@@ -15,4 +15,5 @@
 	10: Echo global variable 'BREATH' to the power of 'LOVE'
 	11: Echo global variable 'BINARY' number in base 10
 	
-	12: Printf global float 'NUM' to two decimals of presicion
+	13: Printf global float 'NUM' to two decimals of presicion
+	14: Echo global variable 'DECIMAL' in hexadecimal
